@@ -2,7 +2,7 @@
   <h1>🔥 Klinko Viral Pattern Analyzer</h1>
   <p><strong>Identify repeatable patterns behind high-performing content.</strong></p>
   <p>
-    <a href="https://github.com/klinkoai/ai-market-research-skills">🧭 Explore all Klinko Skills</a> ·
+    <a href="https://github.com/klinkoai/ai-market-research-skills">⬇️ Install Klinko Skills</a> ·
     <a href="https://klinko.ai/en/">🌐 Klinko</a> ·
     <a href="https://home.klinko.ai">🚀 Start Market Research</a>
   </p>
@@ -10,9 +10,9 @@
 
 ## What is Klinko Viral Pattern Analyzer?
 
-Klinko Viral Pattern Analyzer is an AI agent Skill for examining high-performing content as a set of repeatable audience and creative patterns. It helps teams identify recurring hooks, topics, emotional tensions, narrative structures, formats, and participation dynamics, then translate those observations into testable creative directions without simply copying individual posts.
+Klinko Viral Pattern Analyzer is an AI market research skill for examining high-performing content as a set of repeatable audience and creative patterns. It helps teams identify recurring hooks, topics, emotional tensions, narrative structures, formats, and participation dynamics, then translate those observations into testable creative directions without simply copying individual posts.
 
-## What this AI agent Skill helps you do
+## What this skill helps you do
 
 - Organize high-performing content into recurring pattern categories
 - Identify hooks, themes, formats, and emotional drivers
@@ -35,7 +35,7 @@ Klinko Viral Pattern Analyzer is an AI agent Skill for examining high-performing
 | Audience dynamics | Connect performance to motivations and participation |
 | Creative test ideas | Apply patterns without copying executions |
 
-## Example workflow
+## Example research process
 
 1. Describe the product, idea, audience, or market you want to understand.
 2. Add relevant public context such as geography, category, goals, or constraints.
@@ -53,7 +53,7 @@ Klinko Viral Pattern Analyzer is an AI agent Skill for examining high-performing
 - What appears reusable versus execution-specific
 - Original test ideas derived from the strongest patterns
 
-## Who this Skill is for
+## Who this skill is for
 
 - Creative strategists
 - Social teams
@@ -65,13 +65,13 @@ Klinko Viral Pattern Analyzer is an AI agent Skill for examining high-performing
 - [Codex](https://openai.com/codex/)
 - [Claude Code](https://www.anthropic.com/claude-code)
 
-The installable Skill package and shared Klinko API integration are in development. This repository is the canonical public page for the Viral Pattern Analyzer workflow and will contain installation instructions when access opens.
+The workflow is complete and included in the single installable [Klinko Market Research Skill](https://github.com/klinkoai/ai-market-research-skills). This repository remains the canonical public documentation page for the Viral Pattern Analyzer workflow.
 
 ## Klinko access
 
-This Skill will use the shared Klinko public API and return decision-ready results in an agent-friendly format. One Klinko API key will work across the complete Skill collection.
+This skill uses the authenticated Klinko MCP runtime and returns decision-ready results in an agent-friendly format. Each user connects with their own Klinko API key; rotating it revokes the old key in both validated clients.
 
-## Related Klinko Skills
+## Related Klinko skills
 
 - [Content Strategy Builder](https://github.com/klinkoai/klinko-content-strategy-builder)
 - [Creative Brief Generator](https://github.com/klinkoai/klinko-creative-brief-generator)
@@ -79,8 +79,8 @@ This Skill will use the shared Klinko public API and return decision-ready resul
 
 ## About Klinko
 
-[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills catalog](https://github.com/klinkoai/ai-market-research-skills).
+[Klinko](https://klinko.ai/en/) is an audience decision engine that helps teams understand communities, customer needs, market opportunities, positioning, and content direction. Explore the complete [Klinko AI Market Research Skills](https://github.com/klinkoai/ai-market-research-skills).
 
 ---
 
-Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 3, 2026
+Maintained by [Klinko](https://github.com/klinkoai) · Contact [business@klinko.ai](mailto:business@klinko.ai) · Last updated August 7, 2026
