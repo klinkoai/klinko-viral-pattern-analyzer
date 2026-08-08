@@ -3,7 +3,7 @@
   <p><strong>Identify repeatable patterns behind high-performing content.</strong></p>
   <p>
     <a href="https://github.com/klinkoai/ai-market-research-skills">⬇️ Install Klinko Skills</a> ·
-    <a href="https://klinko.ai/en/skills/viral-pattern-analyzer/">🌐 Skill page</a> ·
+    <a href="https://klinko.ai/en/">🌐 Klinko</a> ·
     <a href="https://home.klinko.ai">🚀 Start Market Research</a>
   </p>
 </div>
