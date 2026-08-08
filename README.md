@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository is archived.** Content pattern analysis and content prioritization are now covered by [Klinko Content Strategy Builder](https://github.com/klinkoai/klinko-content-strategy-builder). Use the [current six-skill catalog](https://github.com/klinkoai/ai-market-research-skills) for installation and maintained documentation.
+
 <div align="center">
   <h1>🔥 Klinko Viral Pattern Analyzer</h1>
   <p><strong>Identify repeatable patterns behind high-performing content.</strong></p>
